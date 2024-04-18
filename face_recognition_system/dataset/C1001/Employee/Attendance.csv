@@ -1,0 +1,82 @@
+EmployeeID,Emp_name,Department,Date,Intime,Out_time
+E1129,Md Ashraf,Mobile,01-04-2024,12:31:38,12:31:39
+T1240,bhushan jha,python,02-04-2024,12:31:46,16:07:29
+E1153,Mohd Usama,Mobile Dep,02-04-2024,12:32:03,13:40:29
+E1129,Md Ashraf,Mobile,02-04-2024,12:33:01,16:07:55
+E1189,Preet,Mobile App development,02-04-2024,12:34:55,12:35:08
+T1226,Harsh mishra,Mobile App Development ,02-04-2024,12:35:16,12:35:17
+T1230,nikhil,python,02-04-2024,12:36:08,12:36:09
+E1182,Ujjawal Saini,React JS,02-04-2024,12:36:34,
+E1180,HEMANT KUMAR,Development ,02-04-2024,12:36:35,
+E1158,Anshika,.net developer ,02-04-2024,12:36:45,12:37:52
+T1238,Rishabh Sahu,.Net,02-04-2024,12:37:41,12:37:42
+T1231,vanshaj gangwar,MERN ,02-04-2024,12:38:09,12:38:11
+o1080,Sourav mishra,React,02-04-2024,12:38:38,12:38:39
+E1195,Kavita Chaudhary ,.net department ,02-04-2024,12:38:46,13:40:04
+E1129,Md Ashraf ,Mobile,03-04-2024,10:56:52,18:30:13
+E1001,Pramod Gupta,Management,03-04-2024,11:31:37,17:23:02
+E1055,Manish Sagar,IT,03-04-2024,11:36:05,16:59:26
+E1003,Sneha Gupta,DM,03-04-2024,11:40:37,11:40:47
+E1002,Kamal Singh Bhakuni,SA,03-04-2024,11:43:42,11:43:54
+E1153,Mohd Usama,Mobile Dep,03-04-2024,12:24:22,15:49:01
+E1199,Tahreem Ansari,.net ,03-04-2024,12:27:00,13:54:44
+E1181,Aakash Maddheshiya,Python Developer,03-04-2024,12:27:14,12:37:23
+T1240,bhushan jha,python,03-04-2024,12:27:38,12:28:23
+T1238,Rishabh Sahu,.Net,03-04-2024,13:57:35,17:23:22
+E1129,Md Ashraf ,Mobile,04-04-2024,13:46:18,16:32:52
+E1181,Aakash Maddheshiya,Python Developer,04-04-2024,14:47:50,14:48:20
+Amresh Kumar Singh,E1048,IT,04-04-2024,16:39:43,16:40:52
+E1055,Manish Sagar,IT,04-04-2024,16:50:18,16:50:37
+T1238,Rishabh Sahu,.Net,05-04-2024,08:02:51,10:24:52
+1001,Muskaan Gupta,H,05-04-2024,08:02:52,08:05:57
+E1001,Pramod Gupta,Management,05-04-2024,08:02:55,08:05:08
+E1003,Sneha Gupta,DM,05-04-2024,08:03:34,08:05:49
+1002,Aanand Gupta,H,05-04-2024,08:03:41,08:03:43
+E1129,Md Ashraf ,Mobile,05-04-2024,08:39:06,23:04:16
+E1142,Pitam Kayal,IT,05-04-2024,10:15:35,10:16:28
+E1181,Aakash Maddheshiya,Python Developer,05-04-2024,10:24:47,12:20:42
+E1129,Md Ashraf ,Mobile,06-04-2024,12:02:28,13:02:06
+E1001,Pramod Gupta,Management,06-04-2024,12:03:55,12:04:34
+1003,Dhiraj Saxena,Ops,06-04-2024,12:04:23,12:04:25
+E1055,Manish Sagar,IT,06-04-2024,12:04:39,12:04:41
+E1129,Md Ashraf ,Mobile,08-04-2024,10:23:11,23:11:29
+E1055,Manish Sagar,IT,08-04-2024,15:12:18,18:29:01
+E1153,Mohd Usama,Mobile Dep,08-04-2024,15:44:30,16:52:28
+E1189,Preet,Mobile App development,08-04-2024,16:48:32,16:49:01
+E1186,Sharvan Kumar Bind,dot.net,08-04-2024,16:48:40,
+T1238,Rishabh Sahu,.Net,08-04-2024,16:49:33,
+E1001,Pramod Gupta,Management,08-04-2024,18:44:01,18:50:54
+E1150,Sanjay Kumar,Support ,08-04-2024,18:44:10,18:51:16
+E1199,Tahreem Ansari,.net ,09-04-2024,10:06:04,10:06:05
+E1129,Md Ashraf ,Mobile,09-04-2024,11:43:41,21:35:18
+T1240,bhushan jha,python,09-04-2024,11:45:30,17:25:56
+E1181,Aakash Maddheshiya,Python Developer,09-04-2024,11:45:45,17:33:13
+E1001,Pramod Gupta,Management,09-04-2024,12:28:49,17:43:27
+E1142,Pitam Kayal,IT,09-04-2024,15:50:00,15:50:01
+E1055,Manish Sagar,IT,09-04-2024,15:50:17,17:43:38
+E1003,Sneha Gupta,DM,09-04-2024,15:50:31,16:57:51
+E1116,Jaydatt sharma,Account ,09-04-2024,15:58:26,15:58:32
+E1125,Kuldeep Kumar ,Web Designing,09-04-2024,17:05:07,17:05:40
+E1048,Amresh Kumar Singh,IT,09-04-2024,17:36:13,17:44:01
+E1093,Ravi Raushan,Support,09-04-2024,17:41:21,
+E1129,Md Ashraf ,TL,10-04-2024,12:43:00,14:48:13
+T1240,bhushan jha,python,10-04-2024,12:43:19,12:49:51
+E1199,Tahreem Ansari,.net ,10-04-2024,12:49:50,
+E1153,Mohd Usama,Mobile Dep,10-04-2024,13:18:59,
+E1048,Amresh Kumar Singh,IT,10-04-2024,14:47:34,14:51:26
+E1048,Amresh Kumar Singh,IT,11-04-2024,14:41:34,14:41:45
+E1129,Md Ashraf ,TL Mobile App developer ,11-04-2024,14:49:45,21:48:41
+E1055,Manish Sagar,IT,12-04-2024,10:10:16,10:11:20
+E1001,Pramod Gupta,Management,12-04-2024,10:11:10,10:11:36
+E1129,Md Ashraf ,TL Mobile App developer ,12-04-2024,14:25:59,14:26:23
+E1181,Aakash Maddheshiya,Python Developer,12-04-2024,14:26:06,14:26:35
+E1129,Md Ashraf ,TL Mobile App developer ,14-04-2024,23:02:32,23:02:33
+E1129,Md Ashraf ,TL Mobile App developer ,15-04-2024,15:58:25,15:59:04
+E1181,Aakash Maddheshiya,Python Developer,15-04-2024,15:58:37,15:58:39
+T1230,nikhil,python,15-04-2024,15:58:52,15:59:03
+E1129,Md Ashraf ,TL Mobile App developer ,16-04-2024,10:27:47,18:14:36
+E1055,Manish Sagar,IT,16-04-2024,15:36:13,18:39:19
+E1116,Jaydatt sharma,Account ,16-04-2024,16:04:43,16:34:22
+E1142,Pitam Kayal,IT,16-04-2024,16:05:04,16:18:27
+E1129,Md Ashraf ,TL Mobile App developer ,17-04-2024,09:30:09,
+E1055,Manish Sagar,IT,17-04-2024,09:55:46,11:32:34
